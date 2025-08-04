@@ -1,7 +1,7 @@
 -👋 Hi, I’m @przybyla-nikodem
 
--👀 Interested in ESP32 and 8266, C#, C++, mobile applications, MIT App Inventor
+-👀 Interested in ESP32, C#, C++, mobile applications
 
--🌱 I’m currently working on mobile applications and programming in C++ (ESP32)
+-🌱 I’m currently working on a C# desktop application and LLM development
 
 -📫 How to reach me: email przybylanikodem@gmail.com
